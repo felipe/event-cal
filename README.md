@@ -1,2 +1,2 @@
 # event-cal
-Calendar "
+Calendar "day view" to see when events are happening on a particular day.
